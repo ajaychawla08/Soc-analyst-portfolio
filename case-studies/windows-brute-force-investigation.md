@@ -5,7 +5,7 @@
 - Severity: Medium — preliminary
 - Host: WIN-SRV-01 (192.0.2.10)
 - Source IP: 203.0.113.25
-- Time: 09 October 2026, 10:00–10:10 UTC
+- Time: 09 October 2026, 10:00–10:10 IST
 - Event ID: 4625
 - MITRE ATT&CK: T1110 — Brute Force
 - Environment: Simulated lab
