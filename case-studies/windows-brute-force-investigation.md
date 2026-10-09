@@ -56,3 +56,24 @@ Suspicious authentication activity — further validation required. The sample s
 
 ## 9. Disclaimer
 This is a simulated educational case study. It does not describe a real client incident.
+
+
+
+
+
+Sample Dataset
+
+The investigation uses fictional Windows authentication logs created for educational and portfolio purposes.
+
+The dataset contains repeated Windows Event ID 4625 failures from a single source IP targeting multiple usernames.
+
+Dataset: View Windows Brute-Force Logs
+
+Key observations:
+
+Repeated authentication failures from one source IP.
+Multiple usernames targeted.
+Event ID 4625 indicates failed logon attempts.
+These sample records alone do not confirm a successful compromise.
+
+Note: The dataset is simulated and does not contain production or client logs.
