@@ -61,7 +61,9 @@ This is a simulated educational case study. It does not describe a real client i
 
 
 
-Sample Dataset
+
+
+## Sample Dataset
 
 The investigation uses fictional Windows authentication logs created for educational and portfolio purposes.
 
